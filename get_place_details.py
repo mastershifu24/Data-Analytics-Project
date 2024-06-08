@@ -3,7 +3,7 @@
 import requests # type: ignore
 
 # Your API key (replace with your actual API key)
-API_KEY = 'AIzaSyDBddhnVsgh3JZLog2Z_HvAs1a-VZ3MwvM'
+API_KEY = 'INSERT GOOGLE API KEY HERE'
 
 # Function to get place details
 def get_place_details(place_id):
