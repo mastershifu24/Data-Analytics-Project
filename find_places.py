@@ -7,7 +7,7 @@ import requests # type: ignore
 import requests # type: ignore
 
 # Your API key (replace with your actual API key)
-API_KEY = 'AIzaSyDBddhnVsgh3JZLog2Z_HvAs1a-VZ3MwvM'
+API_KEY = 'INSERT GOOGLE API KEY HERE'
 
 # Endpoint URL for the Places API Text Search
 url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
