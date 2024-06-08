@@ -16,7 +16,7 @@ git clone https://github.com/your-username/data-analysis-project.git
 Navigate to the project directory:
 cd data-analysis-project
 
-Install the required Python packages:
+Install the required Python packages before you begin:
 pip install: requests, pandas, json, numpy, matplotlib, seaborn
 
 Usage
